@@ -1,0 +1,16 @@
+.back {
+  display: block;
+  max-width: 70px;
+  padding: 10px;
+  margin: auto;
+  border: 1px solid #c3ee9b;
+  border-radius: 5px;
+  background-color: bisque;
+  outline: none;
+}
+.back:hover,
+.back:focus {
+  border: 1px solid chocolate;
+  background-color: rgb(182, 243, 84);
+  outline: none;
+}
